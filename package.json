@@ -1,0 +1,14 @@
+{
+    "name": "Mapas-Flisol",
+    "description": "Demo-Mapas",
+    "version": "0.0.1",
+    "author": "Jose Alvarez",
+    "scripts": {
+        "start": "node app"
+    },
+    "dependencies": {
+        "express": "*",
+        "jade": "*",
+        "socket.io": "*"
+    }
+}
